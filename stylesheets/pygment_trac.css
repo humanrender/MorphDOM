@@ -1,0 +1,348 @@
+/* line 1, pygment_trac.css.scss */
+.highlight {
+  background: #ffffff; }
+
+/* line 2, pygment_trac.css.scss */
+.highlight .c {
+  color: #999988;
+  font-style: italic; }
+
+/* Comment */
+/* line 3, pygment_trac.css.scss */
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2; }
+
+/* Error */
+/* line 4, pygment_trac.css.scss */
+.highlight .k {
+  font-weight: bold; }
+
+/* Keyword */
+/* line 5, pygment_trac.css.scss */
+.highlight .o {
+  font-weight: bold; }
+
+/* Operator */
+/* line 6, pygment_trac.css.scss */
+.highlight .cm {
+  color: #999988;
+  font-style: italic; }
+
+/* Comment.Multiline */
+/* line 7, pygment_trac.css.scss */
+.highlight .cp {
+  color: #999999;
+  font-weight: bold; }
+
+/* Comment.Preproc */
+/* line 8, pygment_trac.css.scss */
+.highlight .c1 {
+  color: #999988;
+  font-style: italic; }
+
+/* Comment.Single */
+/* line 9, pygment_trac.css.scss */
+.highlight .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic; }
+
+/* Comment.Special */
+/* line 10, pygment_trac.css.scss */
+.highlight .gd {
+  color: #000000;
+  background-color: #ffdddd; }
+
+/* Generic.Deleted */
+/* line 11, pygment_trac.css.scss */
+.highlight .gd .x {
+  color: #000000;
+  background-color: #ffaaaa; }
+
+/* Generic.Deleted.Specific */
+/* line 12, pygment_trac.css.scss */
+.highlight .ge {
+  font-style: italic; }
+
+/* Generic.Emph */
+/* line 13, pygment_trac.css.scss */
+.highlight .gr {
+  color: #aa0000; }
+
+/* Generic.Error */
+/* line 14, pygment_trac.css.scss */
+.highlight .gh {
+  color: #999999; }
+
+/* Generic.Heading */
+/* line 15, pygment_trac.css.scss */
+.highlight .gi {
+  color: #000000;
+  background-color: #ddffdd; }
+
+/* Generic.Inserted */
+/* line 16, pygment_trac.css.scss */
+.highlight .gi .x {
+  color: #000000;
+  background-color: #aaffaa; }
+
+/* Generic.Inserted.Specific */
+/* line 17, pygment_trac.css.scss */
+.highlight .go {
+  color: #888888; }
+
+/* Generic.Output */
+/* line 18, pygment_trac.css.scss */
+.highlight .gp {
+  color: #555555; }
+
+/* Generic.Prompt */
+/* line 19, pygment_trac.css.scss */
+.highlight .gs {
+  font-weight: bold; }
+
+/* Generic.Strong */
+/* line 20, pygment_trac.css.scss */
+.highlight .gu {
+  color: #800080;
+  font-weight: bold; }
+
+/* Generic.Subheading */
+/* line 21, pygment_trac.css.scss */
+.highlight .gt {
+  color: #aa0000; }
+
+/* Generic.Traceback */
+/* line 22, pygment_trac.css.scss */
+.highlight .kc {
+  font-weight: bold; }
+
+/* Keyword.Constant */
+/* line 23, pygment_trac.css.scss */
+.highlight .kd {
+  font-weight: bold; }
+
+/* Keyword.Declaration */
+/* line 24, pygment_trac.css.scss */
+.highlight .kn {
+  font-weight: bold; }
+
+/* Keyword.Namespace */
+/* line 25, pygment_trac.css.scss */
+.highlight .kp {
+  font-weight: bold; }
+
+/* Keyword.Pseudo */
+/* line 26, pygment_trac.css.scss */
+.highlight .kr {
+  font-weight: bold; }
+
+/* Keyword.Reserved */
+/* line 27, pygment_trac.css.scss */
+.highlight .kt {
+  color: #445588;
+  font-weight: bold; }
+
+/* Keyword.Type */
+/* line 28, pygment_trac.css.scss */
+.highlight .m {
+  color: #009999; }
+
+/* Literal.Number */
+/* line 29, pygment_trac.css.scss */
+.highlight .s {
+  color: #d14; }
+
+/* Literal.String */
+/* line 30, pygment_trac.css.scss */
+.highlight .na {
+  color: #008080; }
+
+/* Name.Attribute */
+/* line 31, pygment_trac.css.scss */
+.highlight .nb {
+  color: #0086B3; }
+
+/* Name.Builtin */
+/* line 32, pygment_trac.css.scss */
+.highlight .nc {
+  color: #445588;
+  font-weight: bold; }
+
+/* Name.Class */
+/* line 33, pygment_trac.css.scss */
+.highlight .no {
+  color: #008080; }
+
+/* Name.Constant */
+/* line 34, pygment_trac.css.scss */
+.highlight .ni {
+  color: #800080; }
+
+/* Name.Entity */
+/* line 35, pygment_trac.css.scss */
+.highlight .ne {
+  color: #990000;
+  font-weight: bold; }
+
+/* Name.Exception */
+/* line 36, pygment_trac.css.scss */
+.highlight .nf {
+  color: #990000;
+  font-weight: bold; }
+
+/* Name.Function */
+/* line 37, pygment_trac.css.scss */
+.highlight .nn {
+  color: #555555; }
+
+/* Name.Namespace */
+/* line 38, pygment_trac.css.scss */
+.highlight .nt {
+  color: #000080; }
+
+/* Name.Tag */
+/* line 39, pygment_trac.css.scss */
+.highlight .nv {
+  color: #008080; }
+
+/* Name.Variable */
+/* line 40, pygment_trac.css.scss */
+.highlight .ow {
+  font-weight: bold; }
+
+/* Operator.Word */
+/* line 41, pygment_trac.css.scss */
+.highlight .w {
+  color: #bbbbbb; }
+
+/* Text.Whitespace */
+/* line 42, pygment_trac.css.scss */
+.highlight .mf {
+  color: #009999; }
+
+/* Literal.Number.Float */
+/* line 43, pygment_trac.css.scss */
+.highlight .mh {
+  color: #009999; }
+
+/* Literal.Number.Hex */
+/* line 44, pygment_trac.css.scss */
+.highlight .mi {
+  color: #009999; }
+
+/* Literal.Number.Integer */
+/* line 45, pygment_trac.css.scss */
+.highlight .mo {
+  color: #009999; }
+
+/* Literal.Number.Oct */
+/* line 46, pygment_trac.css.scss */
+.highlight .sb {
+  color: #d14; }
+
+/* Literal.String.Backtick */
+/* line 47, pygment_trac.css.scss */
+.highlight .sc {
+  color: #d14; }
+
+/* Literal.String.Char */
+/* line 48, pygment_trac.css.scss */
+.highlight .sd {
+  color: #d14; }
+
+/* Literal.String.Doc */
+/* line 49, pygment_trac.css.scss */
+.highlight .s2 {
+  color: #d14; }
+
+/* Literal.String.Double */
+/* line 50, pygment_trac.css.scss */
+.highlight .se {
+  color: #d14; }
+
+/* Literal.String.Escape */
+/* line 51, pygment_trac.css.scss */
+.highlight .sh {
+  color: #d14; }
+
+/* Literal.String.Heredoc */
+/* line 52, pygment_trac.css.scss */
+.highlight .si {
+  color: #d14; }
+
+/* Literal.String.Interpol */
+/* line 53, pygment_trac.css.scss */
+.highlight .sx {
+  color: #d14; }
+
+/* Literal.String.Other */
+/* line 54, pygment_trac.css.scss */
+.highlight .sr {
+  color: #009926; }
+
+/* Literal.String.Regex */
+/* line 55, pygment_trac.css.scss */
+.highlight .s1 {
+  color: #d14; }
+
+/* Literal.String.Single */
+/* line 56, pygment_trac.css.scss */
+.highlight .ss {
+  color: #990073; }
+
+/* Literal.String.Symbol */
+/* line 57, pygment_trac.css.scss */
+.highlight .bp {
+  color: #999999; }
+
+/* Name.Builtin.Pseudo */
+/* line 58, pygment_trac.css.scss */
+.highlight .vc {
+  color: #008080; }
+
+/* Name.Variable.Class */
+/* line 59, pygment_trac.css.scss */
+.highlight .vg {
+  color: #008080; }
+
+/* Name.Variable.Global */
+/* line 60, pygment_trac.css.scss */
+.highlight .vi {
+  color: #008080; }
+
+/* Name.Variable.Instance */
+/* line 61, pygment_trac.css.scss */
+.highlight .il {
+  color: #009999; }
+
+/* Literal.Number.Integer.Long */
+/* line 63, pygment_trac.css.scss */
+.type-csharp .highlight .k {
+  color: #0000FF; }
+
+/* line 64, pygment_trac.css.scss */
+.type-csharp .highlight .kt {
+  color: #0000FF; }
+
+/* line 65, pygment_trac.css.scss */
+.type-csharp .highlight .nf {
+  color: #000000;
+  font-weight: normal; }
+
+/* line 66, pygment_trac.css.scss */
+.type-csharp .highlight .nc {
+  color: #2B91AF; }
+
+/* line 67, pygment_trac.css.scss */
+.type-csharp .highlight .nn {
+  color: #000000; }
+
+/* line 68, pygment_trac.css.scss */
+.type-csharp .highlight .s {
+  color: #A31515; }
+
+/* line 69, pygment_trac.css.scss */
+.type-csharp .highlight .sc {
+  color: #A31515; }
